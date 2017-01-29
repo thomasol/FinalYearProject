@@ -1,0 +1,16 @@
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject.Search\FinalYearProject.Search\obj\Debug\FinalYearProject.Search.csprojResolveAssemblyReference.cache
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject.Search\FinalYearProject.Search\bin\Debug\FinalYearProject.Search.dll.config
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject.Search\FinalYearProject.Search\bin\Debug\FinalYearProject.Search.dll
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject.Search\FinalYearProject.Search\bin\Debug\FinalYearProject.Search.pdb
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject.Search\FinalYearProject.Search\bin\Debug\Elasticsearch.Net.dll
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject.Search\FinalYearProject.Search\bin\Debug\FinalYearProject.Domain.dll
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject.Search\FinalYearProject.Search\bin\Debug\Nest.dll
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject.Search\FinalYearProject.Search\bin\Debug\Newtonsoft.Json.dll
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject.Search\FinalYearProject.Search\bin\Debug\FinalYearProject.Domain.pdb
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject.Search\FinalYearProject.Search\bin\Debug\Elasticsearch.Net.pdb
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject.Search\FinalYearProject.Search\bin\Debug\Elasticsearch.Net.xml
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject.Search\FinalYearProject.Search\bin\Debug\Nest.pdb
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject.Search\FinalYearProject.Search\bin\Debug\Nest.xml
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject.Search\FinalYearProject.Search\bin\Debug\Newtonsoft.Json.xml
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject.Search\FinalYearProject.Search\obj\Debug\FinalYearProject.Search.dll
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject.Search\FinalYearProject.Search\obj\Debug\FinalYearProject.Search.pdb
