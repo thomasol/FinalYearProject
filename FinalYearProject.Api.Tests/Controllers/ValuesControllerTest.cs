@@ -49,7 +49,6 @@ namespace FinalYearProject.Api.Tests.Controllers
             ValuesController controller = new ValuesController();
 
             // Act
-            controller.Post("value");
 
             // Assert
         }

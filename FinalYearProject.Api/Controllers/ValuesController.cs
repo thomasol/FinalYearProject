@@ -25,7 +25,7 @@ namespace FinalYearProject.Api.Controllers
         }
 
         // POST api/values
-        public void gogo([FromBody]Event item)
+        public void Post([FromBody]Event item)
         {
             // Arrange
             var search = new SearchRepository<Event>("event", "event");
