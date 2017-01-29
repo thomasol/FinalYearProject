@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalYearProject.Api", "Fin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalYearProject.Api.Tests", "FinalYearProject.Api.Tests\FinalYearProject.Api.Tests.csproj", "{0C137630-DBA1-4FCF-8CA4-6EE318591D97}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalYearProject.Mobile", "..\Visual Studio 2015\Projects\FinalYProject\FinalYProject\FinalYearProject.Mobile.csproj", "{D72D4B24-6589-423F-A865-2A4F25B7010F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,12 @@ Global
 		{0C137630-DBA1-4FCF-8CA4-6EE318591D97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C137630-DBA1-4FCF-8CA4-6EE318591D97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C137630-DBA1-4FCF-8CA4-6EE318591D97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D72D4B24-6589-423F-A865-2A4F25B7010F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D72D4B24-6589-423F-A865-2A4F25B7010F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D72D4B24-6589-423F-A865-2A4F25B7010F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D72D4B24-6589-423F-A865-2A4F25B7010F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D72D4B24-6589-423F-A865-2A4F25B7010F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D72D4B24-6589-423F-A865-2A4F25B7010F}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
