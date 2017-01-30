@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalYearProject.Api", "Fin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalYearProject.Api.Tests", "FinalYearProject.Api.Tests\FinalYearProject.Api.Tests.csproj", "{0C137630-DBA1-4FCF-8CA4-6EE318591D97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalYearProject.Mobile", "..\Visual Studio 2015\Projects\FinalYProject\FinalYProject\FinalYearProject.Mobile.csproj", "{D72D4B24-6589-423F-A865-2A4F25B7010F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalYearProject.Mobile", "FinalYearProject.Mobile\FinalYearProject.Mobile.csproj", "{D72D4B24-6589-423F-A865-2A4F25B7010F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
