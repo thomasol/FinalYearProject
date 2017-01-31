@@ -1,36 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="FinalYProject.FinalYProject" android:versionCode="1" android:versionName="1.0" android:installLocation="auto">
-  <uses-sdk android:minSdkVersion="16" android:targetSdkVersion="25" />
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="FinalYearProject.Mobile" android:versionCode="1" android:versionName="1.0" android:installLocation="auto">
+  <uses-sdk android:minSdkVersion="16" android:targetSdkVersion="23" />
   <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
   <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
   <uses-permission android:name="android.permission.CAMERA" />
   <uses-permission android:name="android.permission.FLASHLIGHT" />
   <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+  <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+  <uses-permission android:name="android.permission.USE_CREDENTIALS" />
   <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.GET_ACCOUNTS_PRIVILEGED" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
   <uses-feature android:name="android.hardware.location" android:required="false" />
   <uses-feature android:name="android.hardware.location.gps" android:required="false" />
   <uses-feature android:name="android.hardware.location.network" android:required="false" />
   <uses-feature android:glEsVersion="0x00020000" android:required="true" />
-  <application android:label="FinalYProject" android:theme="@style/MyTheme" android:name="md5fc3d0ccbf6698ed2d2c8db62ed531303.MainApplication" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
+  <application android:label="FinalYearProject.Mobile" android:theme="@style/MyTheme" android:name="md5f74d83235d39d7b5900c3e8523c177ac.MainApplication" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
     <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
-    <activity android:icon="@drawable/icon" android:label="FinalYProject" android:name="md5fc3d0ccbf6698ed2d2c8db62ed531303.MainActivity">
+    <activity android:icon="@drawable/icon" android:label="FinalYearProject.Mobile" android:name="md5f74d83235d39d7b5900c3e8523c177ac.Home">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />
       </intent-filter>
     </activity>
-    <activity android:label="ProductListingsActivity" android:name="md5fc3d0ccbf6698ed2d2c8db62ed531303.ProductListingsActivity" />
+    <activity android:label="MainActivity" android:name="md5f74d83235d39d7b5900c3e8523c177ac.MainActivity" />
+    <activity android:label="ProductListingsActivity" android:name="md5f74d83235d39d7b5900c3e8523c177ac.ProductListingsActivity" />
     <activity android:configChanges="keyboardHidden|orientation|screenLayout" android:label="Scanner" android:name="md55f209945d00c0f0ba9bc67040e445608.ZxingActivity" />
-    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="FinalYProject.FinalYProject.mono.MonoRuntimeProvider.__mono_init__" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="FinalYearProject.Mobile.mono.MonoRuntimeProvider.__mono_init__" />
     <!--suppress ExportedReceiver-->
     <receiver android:name="mono.android.Seppuku">
       <intent-filter>
         <action android:name="mono.android.intent.action.SEPPUKU" />
-        <category android:name="mono.android.intent.category.SEPPUKU.FinalYProject.FinalYProject" />
+        <category android:name="mono.android.intent.category.SEPPUKU.FinalYearProject.Mobile" />
       </intent-filter>
     </receiver>
   </application>
-  <service android:name="FinalYProject.Services.LocationService"></service>
+  <service android:name="FinalYearProject.Mobile.Services.LocationService"></service>
 </manifest>

@@ -3,7 +3,7 @@
   <xs:import schemaLocation="schemas.android.com.apk.res.android.xsd" namespace="http://schemas.android.com/apk/res/android" />
   <xs:annotation>
     <xs:documentation>v23</xs:documentation>
-    <xs:documentation>29/01/2017 21:58:32</xs:documentation>
+    <xs:documentation>31/01/2017 20:59:17</xs:documentation>
   </xs:annotation>
   <xs:group name="any-view">
     <xs:choice>
@@ -80,9 +80,11 @@
       <xs:element ref="HorizontalScrollView" />
       <xs:element ref="SearchView" />
       <xs:element ref="fragment" />
-      <xs:element ref="com.google.android.gms.maps.StreetViewPanoramaView" />
-      <xs:element ref="com.google.android.gms.maps.MapView" />
-      <xs:element ref="com.google.android.gms.common.SignInButton" />
+      <xs:element ref="ZXing.Net.Mobile.Forms.Android.ZXingBarcodeImageViewRenderer" />
+      <xs:element ref="ZXing.Net.Mobile.Forms.Android.ZXingScannerViewRenderer" />
+      <xs:element ref="ZXing.Mobile.ZXingSurfaceView" />
+      <xs:element ref="ZXing.Mobile.ZxingOverlayView" />
+      <xs:element ref="com.xamarin.forms.platform.android.FormsViewGroup" />
       <xs:element ref="android.support.v4.widget.Space" />
       <xs:element ref="android.support.v4.widget.SlidingPaneLayout" />
       <xs:element ref="android.support.v4.widget.DrawerLayout" />
@@ -113,7 +115,6 @@
       <xs:element ref="android.support.v7.view.menu.ExpandedMenuView" />
       <xs:element ref="android.support.v7.view.menu.ListMenuItemView" />
       <xs:element ref="android.support.v7.app.MediaRouteButton" />
-      <xs:element ref="android.support.v7.widget.CardView" />
       <xs:element ref="android.support.v7.widget.ViewStubCompat" />
       <xs:element ref="android.support.v7.widget.SwitchCompat" />
       <xs:element ref="android.support.v7.widget.SearchView" />
@@ -134,12 +135,13 @@
       <xs:element ref="android.support.v7.widget.ActionBarContainer" />
       <xs:element ref="android.support.v7.widget.AbsActionBarView" />
       <xs:element ref="android.support.v7.widget.Toolbar" />
+      <xs:element ref="android.support.v7.widget.CardView" />
       <xs:element ref="android.support.v7.widget.RecyclerView" />
-      <xs:element ref="com.xamarin.forms.platform.android.FormsViewGroup" />
-      <xs:element ref="ZXing.Net.Mobile.Forms.Android.ZXingBarcodeImageViewRenderer" />
-      <xs:element ref="ZXing.Net.Mobile.Forms.Android.ZXingScannerViewRenderer" />
-      <xs:element ref="ZXing.Mobile.ZXingSurfaceView" />
-      <xs:element ref="ZXing.Mobile.ZxingOverlayView" />
+      <xs:element ref="com.google.android.gms.maps.StreetViewPanoramaView" />
+      <xs:element ref="com.google.android.gms.maps.MapView" />
+      <xs:element ref="com.google.android.gms.common.SignInButton" />
+      <xs:element ref="com.google.android.gms.plus.PlusOneDummyView" />
+      <xs:element ref="com.google.android.gms.plus.PlusOneButton" />
     </xs:choice>
   </xs:group>
   <xs:element name="CheckBox" type="CheckBox">
@@ -1475,34 +1477,54 @@
     <xs:attribute ref="android:layout_marginEnd" />
     <xs:attribute ref="android:style" />
   </xs:complexType>
-  <xs:element name="com.google.android.gms.maps.StreetViewPanoramaView" type="com.google.android.gms.maps.StreetViewPanoramaView">
+  <xs:element name="ZXing.Net.Mobile.Forms.Android.ZXingBarcodeImageViewRenderer" type="ZXing.Net.Mobile.Forms.Android.ZXingBarcodeImageViewRenderer">
     <xs:annotation>
-      <xs:documentation>Runtime Type: Android.Gms.Maps.StreetViewPanoramaView</xs:documentation>
+      <xs:documentation>Runtime Type: ZXing.Net.Mobile.Forms.Android.ZXingBarcodeImageViewRenderer</xs:documentation>
     </xs:annotation>
   </xs:element>
-  <xs:complexType name="com.google.android.gms.maps.StreetViewPanoramaView">
+  <xs:complexType name="ZXing.Net.Mobile.Forms.Android.ZXingBarcodeImageViewRenderer">
     <xs:complexContent mixed="false">
-      <xs:extension base="FrameLayout" />
+      <xs:extension base="ViewGroup" />
     </xs:complexContent>
   </xs:complexType>
-  <xs:element name="com.google.android.gms.maps.MapView" type="com.google.android.gms.maps.MapView">
+  <xs:element name="ZXing.Net.Mobile.Forms.Android.ZXingScannerViewRenderer" type="ZXing.Net.Mobile.Forms.Android.ZXingScannerViewRenderer">
     <xs:annotation>
-      <xs:documentation>Runtime Type: Android.Gms.Maps.MapView</xs:documentation>
+      <xs:documentation>Runtime Type: ZXing.Net.Mobile.Forms.Android.ZXingScannerViewRenderer</xs:documentation>
     </xs:annotation>
   </xs:element>
-  <xs:complexType name="com.google.android.gms.maps.MapView">
+  <xs:complexType name="ZXing.Net.Mobile.Forms.Android.ZXingScannerViewRenderer">
     <xs:complexContent mixed="false">
-      <xs:extension base="FrameLayout" />
+      <xs:extension base="ViewGroup" />
     </xs:complexContent>
   </xs:complexType>
-  <xs:element name="com.google.android.gms.common.SignInButton" type="com.google.android.gms.common.SignInButton">
+  <xs:element name="ZXing.Mobile.ZXingSurfaceView" type="ZXing.Mobile.ZXingSurfaceView">
     <xs:annotation>
-      <xs:documentation>Runtime Type: Android.Gms.Common.SignInButton</xs:documentation>
+      <xs:documentation>Runtime Type: ZXing.Mobile.ZXingSurfaceView</xs:documentation>
     </xs:annotation>
   </xs:element>
-  <xs:complexType name="com.google.android.gms.common.SignInButton">
+  <xs:complexType name="ZXing.Mobile.ZXingSurfaceView">
     <xs:complexContent mixed="false">
-      <xs:extension base="FrameLayout" />
+      <xs:extension base="SurfaceView" />
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="ZXing.Mobile.ZxingOverlayView" type="ZXing.Mobile.ZxingOverlayView">
+    <xs:annotation>
+      <xs:documentation>Runtime Type: ZXing.Mobile.ZxingOverlayView</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:complexType name="ZXing.Mobile.ZxingOverlayView">
+    <xs:complexContent mixed="false">
+      <xs:extension base="View" />
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="com.xamarin.forms.platform.android.FormsViewGroup" type="com.xamarin.forms.platform.android.FormsViewGroup">
+    <xs:annotation>
+      <xs:documentation>Runtime Type: Xamarin.Forms.Platform.Android.FormsViewGroup</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:complexType name="com.xamarin.forms.platform.android.FormsViewGroup">
+    <xs:complexContent mixed="false">
+      <xs:extension base="ViewGroup" />
     </xs:complexContent>
   </xs:complexType>
   <xs:element name="android.support.v4.widget.Space" type="android.support.v4.widget.Space">
@@ -1805,16 +1827,6 @@
       <xs:extension base="View" />
     </xs:complexContent>
   </xs:complexType>
-  <xs:element name="android.support.v7.widget.CardView" type="android.support.v7.widget.CardView">
-    <xs:annotation>
-      <xs:documentation>Runtime Type: Android.Support.V7.Widget.CardView</xs:documentation>
-    </xs:annotation>
-  </xs:element>
-  <xs:complexType name="android.support.v7.widget.CardView">
-    <xs:complexContent mixed="false">
-      <xs:extension base="FrameLayout" />
-    </xs:complexContent>
-  </xs:complexType>
   <xs:element name="android.support.v7.widget.ViewStubCompat" type="android.support.v7.widget.ViewStubCompat">
     <xs:annotation>
       <xs:documentation>Runtime Type: Android.Support.V7.Widget.ViewStubCompat</xs:documentation>
@@ -2078,6 +2090,16 @@
       </xs:extension>
     </xs:complexContent>
   </xs:complexType>
+  <xs:element name="android.support.v7.widget.CardView" type="android.support.v7.widget.CardView">
+    <xs:annotation>
+      <xs:documentation>Runtime Type: Android.Support.V7.Widget.CardView</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:complexType name="android.support.v7.widget.CardView">
+    <xs:complexContent mixed="false">
+      <xs:extension base="FrameLayout" />
+    </xs:complexContent>
+  </xs:complexType>
   <xs:element name="android.support.v7.widget.RecyclerView" type="android.support.v7.widget.RecyclerView">
     <xs:annotation>
       <xs:documentation>Runtime Type: Android.Support.V7.Widget.RecyclerView</xs:documentation>
@@ -2088,54 +2110,54 @@
       <xs:extension base="ViewGroup" />
     </xs:complexContent>
   </xs:complexType>
-  <xs:element name="com.xamarin.forms.platform.android.FormsViewGroup" type="com.xamarin.forms.platform.android.FormsViewGroup">
+  <xs:element name="com.google.android.gms.maps.StreetViewPanoramaView" type="com.google.android.gms.maps.StreetViewPanoramaView">
     <xs:annotation>
-      <xs:documentation>Runtime Type: Xamarin.Forms.Platform.Android.FormsViewGroup</xs:documentation>
+      <xs:documentation>Runtime Type: Android.Gms.Maps.StreetViewPanoramaView</xs:documentation>
     </xs:annotation>
   </xs:element>
-  <xs:complexType name="com.xamarin.forms.platform.android.FormsViewGroup">
+  <xs:complexType name="com.google.android.gms.maps.StreetViewPanoramaView">
     <xs:complexContent mixed="false">
-      <xs:extension base="ViewGroup" />
+      <xs:extension base="FrameLayout" />
     </xs:complexContent>
   </xs:complexType>
-  <xs:element name="ZXing.Net.Mobile.Forms.Android.ZXingBarcodeImageViewRenderer" type="ZXing.Net.Mobile.Forms.Android.ZXingBarcodeImageViewRenderer">
+  <xs:element name="com.google.android.gms.maps.MapView" type="com.google.android.gms.maps.MapView">
     <xs:annotation>
-      <xs:documentation>Runtime Type: ZXing.Net.Mobile.Forms.Android.ZXingBarcodeImageViewRenderer</xs:documentation>
+      <xs:documentation>Runtime Type: Android.Gms.Maps.MapView</xs:documentation>
     </xs:annotation>
   </xs:element>
-  <xs:complexType name="ZXing.Net.Mobile.Forms.Android.ZXingBarcodeImageViewRenderer">
+  <xs:complexType name="com.google.android.gms.maps.MapView">
     <xs:complexContent mixed="false">
-      <xs:extension base="ViewGroup" />
+      <xs:extension base="FrameLayout" />
     </xs:complexContent>
   </xs:complexType>
-  <xs:element name="ZXing.Net.Mobile.Forms.Android.ZXingScannerViewRenderer" type="ZXing.Net.Mobile.Forms.Android.ZXingScannerViewRenderer">
+  <xs:element name="com.google.android.gms.common.SignInButton" type="com.google.android.gms.common.SignInButton">
     <xs:annotation>
-      <xs:documentation>Runtime Type: ZXing.Net.Mobile.Forms.Android.ZXingScannerViewRenderer</xs:documentation>
+      <xs:documentation>Runtime Type: Android.Gms.Common.SignInButton</xs:documentation>
     </xs:annotation>
   </xs:element>
-  <xs:complexType name="ZXing.Net.Mobile.Forms.Android.ZXingScannerViewRenderer">
+  <xs:complexType name="com.google.android.gms.common.SignInButton">
     <xs:complexContent mixed="false">
-      <xs:extension base="ViewGroup" />
+      <xs:extension base="FrameLayout" />
     </xs:complexContent>
   </xs:complexType>
-  <xs:element name="ZXing.Mobile.ZXingSurfaceView" type="ZXing.Mobile.ZXingSurfaceView">
+  <xs:element name="com.google.android.gms.plus.PlusOneDummyView" type="com.google.android.gms.plus.PlusOneDummyView">
     <xs:annotation>
-      <xs:documentation>Runtime Type: ZXing.Mobile.ZXingSurfaceView</xs:documentation>
+      <xs:documentation>Runtime Type: Android.Gms.Plus.PlusOneDummyView</xs:documentation>
     </xs:annotation>
   </xs:element>
-  <xs:complexType name="ZXing.Mobile.ZXingSurfaceView">
+  <xs:complexType name="com.google.android.gms.plus.PlusOneDummyView">
     <xs:complexContent mixed="false">
-      <xs:extension base="SurfaceView" />
+      <xs:extension base="FrameLayout" />
     </xs:complexContent>
   </xs:complexType>
-  <xs:element name="ZXing.Mobile.ZxingOverlayView" type="ZXing.Mobile.ZxingOverlayView">
+  <xs:element name="com.google.android.gms.plus.PlusOneButton" type="com.google.android.gms.plus.PlusOneButton">
     <xs:annotation>
-      <xs:documentation>Runtime Type: ZXing.Mobile.ZxingOverlayView</xs:documentation>
+      <xs:documentation>Runtime Type: Android.Gms.Plus.PlusOneButton</xs:documentation>
     </xs:annotation>
   </xs:element>
-  <xs:complexType name="ZXing.Mobile.ZxingOverlayView">
+  <xs:complexType name="com.google.android.gms.plus.PlusOneButton">
     <xs:complexContent mixed="false">
-      <xs:extension base="View" />
+      <xs:extension base="FrameLayout" />
     </xs:complexContent>
   </xs:complexType>
 </xs:schema>

@@ -8,10 +8,10 @@ using Android.OS;
 using Android.Runtime;
 using Android.Views;
 using Android.Widget;
-using FinalYProject;
+using FinalYearProjectMobile;
 using Android.Support.V7.App;
 
-namespace FinalYProject
+namespace FinalYearProject.Mobile
 {
     [Activity(Label = "ProductListingsActivity")]
     public class ProductListingsActivity : AppCompatActivity

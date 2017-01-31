@@ -19,7 +19,7 @@ using Android.Support.V4.App;
 using Plugin.Geolocator.Abstractions;
 using System.Threading;
 
-namespace FinalYProject.Services
+namespace FinalYearProject.Mobile.Services
 {
     [Service]
     public class LocationService 

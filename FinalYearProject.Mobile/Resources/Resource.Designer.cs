@@ -9,9 +9,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Android.Runtime.ResourceDesignerAttribute("FinalYProject.Resource", IsApplication=true)]
+[assembly: global::Android.Runtime.ResourceDesignerAttribute("FinalYearProject.Mobile.Resource", IsApplication=true)]
 
-namespace FinalYProject
+namespace FinalYearProject.Mobile
 {
 	
 	
@@ -26,13 +26,13 @@ namespace FinalYProject
 		
 		public static void UpdateIdValues()
 		{
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarSize = global::FinalYProject.Resource.Attribute.actionBarSize;
-			global::ZXing.Net.Mobile.Forms.Android.Resource.Layout.zxingscanneractivitylayout = global::FinalYProject.Resource.Layout.zxingscanneractivitylayout;
-			global::ZXing.Net.Mobile.Forms.Android.Resource.Layout.zxingscannerfragmentlayout = global::FinalYProject.Resource.Layout.zxingscannerfragmentlayout;
-			global::ZXing.Net.Mobile.Forms.Android.Resource.String.library_name = global::FinalYProject.Resource.String.library_name;
-			global::ZXing.Mobile.Resource.Id.contentFrame = global::FinalYProject.Resource.Id.contentFrame;
-			global::ZXing.Mobile.Resource.Layout.zxingscanneractivitylayout = global::FinalYProject.Resource.Layout.zxingscanneractivitylayout;
-			global::ZXing.Mobile.Resource.Layout.zxingscannerfragmentlayout = global::FinalYProject.Resource.Layout.zxingscannerfragmentlayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarSize = global::FinalYearProject.Mobile.Resource.Attribute.actionBarSize;
+			global::ZXing.Net.Mobile.Forms.Android.Resource.Layout.zxingscanneractivitylayout = global::FinalYearProject.Mobile.Resource.Layout.zxingscanneractivitylayout;
+			global::ZXing.Net.Mobile.Forms.Android.Resource.Layout.zxingscannerfragmentlayout = global::FinalYearProject.Mobile.Resource.Layout.zxingscannerfragmentlayout;
+			global::ZXing.Net.Mobile.Forms.Android.Resource.String.library_name = global::FinalYearProject.Mobile.Resource.String.library_name;
+			global::ZXing.Mobile.Resource.Id.contentFrame = global::FinalYearProject.Mobile.Resource.Id.contentFrame;
+			global::ZXing.Mobile.Resource.Layout.zxingscanneractivitylayout = global::FinalYearProject.Mobile.Resource.Layout.zxingscanneractivitylayout;
+			global::ZXing.Mobile.Resource.Layout.zxingscannerfragmentlayout = global::FinalYearProject.Mobile.Resource.Layout.zxingscannerfragmentlayout;
 		}
 		
 		public partial class Animation
@@ -2447,85 +2447,97 @@ namespace FinalYProject
 			public const int ic_play_light = 2130837684;
 			
 			// aapt resource value: 0x7f0200b5
-			public const int ic_speaker_dark = 2130837685;
+			public const int ic_plusone_medium_off_client = 2130837685;
 			
 			// aapt resource value: 0x7f0200b6
-			public const int ic_speaker_group_dark = 2130837686;
+			public const int ic_plusone_small_off_client = 2130837686;
 			
 			// aapt resource value: 0x7f0200b7
-			public const int ic_speaker_group_light = 2130837687;
+			public const int ic_plusone_standard_off_client = 2130837687;
 			
 			// aapt resource value: 0x7f0200b8
-			public const int ic_speaker_light = 2130837688;
+			public const int ic_plusone_tall_off_client = 2130837688;
 			
 			// aapt resource value: 0x7f0200b9
-			public const int ic_tv_dark = 2130837689;
+			public const int ic_speaker_dark = 2130837689;
 			
 			// aapt resource value: 0x7f0200ba
-			public const int ic_tv_light = 2130837690;
+			public const int ic_speaker_group_dark = 2130837690;
 			
 			// aapt resource value: 0x7f0200bb
-			public const int Icon = 2130837691;
+			public const int ic_speaker_group_light = 2130837691;
 			
 			// aapt resource value: 0x7f0200bc
-			public const int mr_dialog_material_background_dark = 2130837692;
+			public const int ic_speaker_light = 2130837692;
 			
 			// aapt resource value: 0x7f0200bd
-			public const int mr_dialog_material_background_light = 2130837693;
+			public const int ic_tv_dark = 2130837693;
 			
 			// aapt resource value: 0x7f0200be
-			public const int mr_ic_audiotrack_light = 2130837694;
+			public const int ic_tv_light = 2130837694;
 			
 			// aapt resource value: 0x7f0200bf
-			public const int mr_ic_cast_dark = 2130837695;
+			public const int Icon = 2130837695;
 			
 			// aapt resource value: 0x7f0200c0
-			public const int mr_ic_cast_light = 2130837696;
+			public const int mr_dialog_material_background_dark = 2130837696;
 			
 			// aapt resource value: 0x7f0200c1
-			public const int mr_ic_close_dark = 2130837697;
+			public const int mr_dialog_material_background_light = 2130837697;
 			
 			// aapt resource value: 0x7f0200c2
-			public const int mr_ic_close_light = 2130837698;
+			public const int mr_ic_audiotrack_light = 2130837698;
 			
 			// aapt resource value: 0x7f0200c3
-			public const int mr_ic_media_route_connecting_mono_dark = 2130837699;
+			public const int mr_ic_cast_dark = 2130837699;
 			
 			// aapt resource value: 0x7f0200c4
-			public const int mr_ic_media_route_connecting_mono_light = 2130837700;
+			public const int mr_ic_cast_light = 2130837700;
 			
 			// aapt resource value: 0x7f0200c5
-			public const int mr_ic_media_route_mono_dark = 2130837701;
+			public const int mr_ic_close_dark = 2130837701;
 			
 			// aapt resource value: 0x7f0200c6
-			public const int mr_ic_media_route_mono_light = 2130837702;
+			public const int mr_ic_close_light = 2130837702;
 			
 			// aapt resource value: 0x7f0200c7
-			public const int mr_ic_pause_dark = 2130837703;
+			public const int mr_ic_media_route_connecting_mono_dark = 2130837703;
 			
 			// aapt resource value: 0x7f0200c8
-			public const int mr_ic_pause_light = 2130837704;
+			public const int mr_ic_media_route_connecting_mono_light = 2130837704;
 			
 			// aapt resource value: 0x7f0200c9
-			public const int mr_ic_play_dark = 2130837705;
+			public const int mr_ic_media_route_mono_dark = 2130837705;
 			
 			// aapt resource value: 0x7f0200ca
-			public const int mr_ic_play_light = 2130837706;
-			
-			// aapt resource value: 0x7f0200cf
-			public const int notification_template_icon_bg = 2130837711;
+			public const int mr_ic_media_route_mono_light = 2130837706;
 			
 			// aapt resource value: 0x7f0200cb
-			public const int places_ic_clear = 2130837707;
+			public const int mr_ic_pause_dark = 2130837707;
 			
 			// aapt resource value: 0x7f0200cc
-			public const int places_ic_search = 2130837708;
+			public const int mr_ic_pause_light = 2130837708;
 			
 			// aapt resource value: 0x7f0200cd
-			public const int powered_by_google_dark = 2130837709;
+			public const int mr_ic_play_dark = 2130837709;
 			
 			// aapt resource value: 0x7f0200ce
-			public const int powered_by_google_light = 2130837710;
+			public const int mr_ic_play_light = 2130837710;
+			
+			// aapt resource value: 0x7f0200d3
+			public const int notification_template_icon_bg = 2130837715;
+			
+			// aapt resource value: 0x7f0200cf
+			public const int places_ic_clear = 2130837711;
+			
+			// aapt resource value: 0x7f0200d0
+			public const int places_ic_search = 2130837712;
+			
+			// aapt resource value: 0x7f0200d1
+			public const int powered_by_google_dark = 2130837713;
+			
+			// aapt resource value: 0x7f0200d2
+			public const int powered_by_google_light = 2130837714;
 			
 			static Drawable()
 			{
@@ -2603,8 +2615,8 @@ namespace FinalYProject
 			// aapt resource value: 0x7f0a0015
 			public const int auto = 2131361813;
 			
-			// aapt resource value: 0x7f0a0080
-			public const int autoCompleteTextViewSearch = 2131361920;
+			// aapt resource value: 0x7f0a007f
+			public const int autoCompleteTextViewSearch = 2131361919;
 			
 			// aapt resource value: 0x7f0a0026
 			public const int beginning = 2131361830;
@@ -2612,20 +2624,23 @@ namespace FinalYProject
 			// aapt resource value: 0x7f0a0035
 			public const int bottom = 2131361845;
 			
+			// aapt resource value: 0x7f0a0084
+			public const int btnGoogle = 2131361924;
+			
 			// aapt resource value: 0x7f0a007d
 			public const int buttonAccept = 2131361917;
 			
-			// aapt resource value: 0x7f0a0083
-			public const int buttonBarcodeScanner = 2131361923;
-			
 			// aapt resource value: 0x7f0a0082
-			public const int buttonClear = 2131361922;
+			public const int buttonBarcodeScanner = 2131361922;
+			
+			// aapt resource value: 0x7f0a0081
+			public const int buttonClear = 2131361921;
 			
 			// aapt resource value: 0x7f0a004f
 			public const int buttonPanel = 2131361871;
 			
-			// aapt resource value: 0x7f0a0081
-			public const int buttonSearch = 2131361921;
+			// aapt resource value: 0x7f0a0080
+			public const int buttonSearch = 2131361920;
 			
 			// aapt resource value: 0x7f0a009f
 			public const int cancel_action = 2131361951;
@@ -2759,8 +2774,8 @@ namespace FinalYProject
 			// aapt resource value: 0x7f0a0000
 			public const int item_touch_helper_previous_elevation = 2131361792;
 			
-			// aapt resource value: 0x7f0a007f
-			public const int labelProductSearch = 2131361919;
+			// aapt resource value: 0x7f0a007e
+			public const int labelProductSearch = 2131361918;
 			
 			// aapt resource value: 0x7f0a003a
 			public const int left = 2131361850;
@@ -2779,9 +2794,6 @@ namespace FinalYProject
 			
 			// aapt resource value: 0x7f0a004c
 			public const int list_item = 2131361868;
-			
-			// aapt resource value: 0x7f0a007e
-			public const int main = 2131361918;
 			
 			// aapt resource value: 0x7f0a00a1
 			public const int media_actions = 2131361953;
@@ -2924,8 +2936,8 @@ namespace FinalYProject
 			// aapt resource value: 0x7f0a005f
 			public const int radio = 2131361887;
 			
-			// aapt resource value: 0x7f0a0084
-			public const int requestLabel = 2131361924;
+			// aapt resource value: 0x7f0a0083
+			public const int requestLabel = 2131361923;
 			
 			// aapt resource value: 0x7f0a003b
 			public const int right = 2131361851;
@@ -3279,82 +3291,85 @@ namespace FinalYProject
 			public const int DialogPermission = 2130903077;
 			
 			// aapt resource value: 0x7f030026
-			public const int Main = 2130903078;
+			public const int Home = 2130903078;
 			
 			// aapt resource value: 0x7f030027
-			public const int mr_chooser_dialog = 2130903079;
+			public const int Main = 2130903079;
 			
 			// aapt resource value: 0x7f030028
-			public const int mr_chooser_list_item = 2130903080;
+			public const int mr_chooser_dialog = 2130903080;
 			
 			// aapt resource value: 0x7f030029
-			public const int mr_controller_material_dialog_b = 2130903081;
+			public const int mr_chooser_list_item = 2130903081;
 			
 			// aapt resource value: 0x7f03002a
-			public const int mr_controller_volume_item = 2130903082;
+			public const int mr_controller_material_dialog_b = 2130903082;
 			
 			// aapt resource value: 0x7f03002b
-			public const int mr_playback_control = 2130903083;
+			public const int mr_controller_volume_item = 2130903083;
 			
 			// aapt resource value: 0x7f03002c
-			public const int mr_volume_control = 2130903084;
+			public const int mr_playback_control = 2130903084;
 			
 			// aapt resource value: 0x7f03002d
-			public const int notification_media_action = 2130903085;
+			public const int mr_volume_control = 2130903085;
 			
 			// aapt resource value: 0x7f03002e
-			public const int notification_media_cancel_action = 2130903086;
+			public const int notification_media_action = 2130903086;
 			
 			// aapt resource value: 0x7f03002f
-			public const int notification_template_big_media = 2130903087;
+			public const int notification_media_cancel_action = 2130903087;
 			
 			// aapt resource value: 0x7f030030
-			public const int notification_template_big_media_narrow = 2130903088;
+			public const int notification_template_big_media = 2130903088;
 			
 			// aapt resource value: 0x7f030031
-			public const int notification_template_lines = 2130903089;
+			public const int notification_template_big_media_narrow = 2130903089;
 			
 			// aapt resource value: 0x7f030032
-			public const int notification_template_media = 2130903090;
+			public const int notification_template_lines = 2130903090;
 			
 			// aapt resource value: 0x7f030033
-			public const int notification_template_part_chronometer = 2130903091;
+			public const int notification_template_media = 2130903091;
 			
 			// aapt resource value: 0x7f030034
-			public const int notification_template_part_time = 2130903092;
+			public const int notification_template_part_chronometer = 2130903092;
 			
 			// aapt resource value: 0x7f030035
-			public const int place_autocomplete_fragment = 2130903093;
+			public const int notification_template_part_time = 2130903093;
 			
 			// aapt resource value: 0x7f030036
-			public const int place_autocomplete_item_powered_by_google = 2130903094;
+			public const int place_autocomplete_fragment = 2130903094;
 			
 			// aapt resource value: 0x7f030037
-			public const int place_autocomplete_item_prediction = 2130903095;
+			public const int place_autocomplete_item_powered_by_google = 2130903095;
 			
 			// aapt resource value: 0x7f030038
-			public const int place_autocomplete_progress = 2130903096;
+			public const int place_autocomplete_item_prediction = 2130903096;
 			
 			// aapt resource value: 0x7f030039
-			public const int ProductListings = 2130903097;
+			public const int place_autocomplete_progress = 2130903097;
 			
 			// aapt resource value: 0x7f03003a
-			public const int select_dialog_item_material = 2130903098;
+			public const int ProductListings = 2130903098;
 			
 			// aapt resource value: 0x7f03003b
-			public const int select_dialog_multichoice_material = 2130903099;
+			public const int select_dialog_item_material = 2130903099;
 			
 			// aapt resource value: 0x7f03003c
-			public const int select_dialog_singlechoice_material = 2130903100;
+			public const int select_dialog_multichoice_material = 2130903100;
 			
 			// aapt resource value: 0x7f03003d
-			public const int support_simple_spinner_dropdown_item = 2130903101;
+			public const int select_dialog_singlechoice_material = 2130903101;
 			
 			// aapt resource value: 0x7f03003e
-			public const int zxingscanneractivitylayout = 2130903102;
+			public const int support_simple_spinner_dropdown_item = 2130903102;
 			
 			// aapt resource value: 0x7f03003f
-			public const int zxingscannerfragmentlayout = 2130903103;
+			public const int zxingscanneractivitylayout = 2130903103;
+			
+			// aapt resource value: 0x7f030040
+			public const int zxingscannerfragmentlayout = 2130903104;
 			
 			static Layout()
 			{

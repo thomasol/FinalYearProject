@@ -10,7 +10,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/buttonAccept" />
-  <Button
+    <Button
         android:text="Accept"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

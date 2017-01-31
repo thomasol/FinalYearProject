@@ -97,8 +97,8 @@ public class MonoPackageManager {
 
 class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
-		/* We need to ensure that "FinalYProject.dll" comes first in this list. */
-		"FinalYProject.dll",
+		/* We need to ensure that "FinalYearProject.Mobile.dll" comes first in this list. */
+		"FinalYearProject.Mobile.dll",
 		"FormsViewGroup.dll",
 		"Google.Apis.Core.dll",
 		"Google.Apis.dll",
@@ -124,6 +124,7 @@ class MonoPackageManager_Resources {
 		"Xamarin.GooglePlayServices.Basement.dll",
 		"Xamarin.GooglePlayServices.Location.dll",
 		"Xamarin.GooglePlayServices.Maps.dll",
+		"Xamarin.GooglePlayServices.Plus.dll",
 		"ZXing.Net.Mobile.Core.dll",
 		"ZXing.Net.Mobile.Forms.Android.dll",
 		"ZXing.Net.Mobile.Forms.dll",

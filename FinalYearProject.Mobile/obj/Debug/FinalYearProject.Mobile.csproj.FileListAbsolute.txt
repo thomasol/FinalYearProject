@@ -152,3 +152,221 @@ C:\Users\Tom\Documents\FinalYearProject\FinalYearProject.Mobile\obj\Debug\res\dr
 C:\Users\Tom\Documents\FinalYearProject\FinalYearProject.Mobile\obj\Debug\res\values\styles.xml
 C:\Users\Tom\Documents\FinalYearProject\FinalYearProject.Mobile\obj\Debug\R.cs.flag
 C:\Users\Tom\Documents\FinalYearProject\FinalYearProject.Mobile\obj\Debug\uploadflags.txt
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\FinalYearProject.Mobile.dll
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\FinalYearProject.Mobile.pdb
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\FinalYearProject.Mobile.apk
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\FinalYearProject.Mobile-Signed.apk
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\FormsViewGroup.dll
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Google.Apis.Core.dll
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Google.Apis.dll
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Newtonsoft.Json.dll
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Plugin.CurrentActivity.dll
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Plugin.Geolocator.Abstractions.dll
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Plugin.Geolocator.dll
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Plugin.Permissions.Abstractions.dll
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Plugin.Permissions.dll
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Xamarin.GooglePlayServices.Location.dll
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Xamarin.GooglePlayServices.Plus.dll
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\ZXing.Net.Mobile.Core.dll
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\ZXing.Net.Mobile.Forms.Android.dll
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\ZXing.Net.Mobile.Forms.dll
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\zxing.portable.dll
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\ZXingNetMobile.dll
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Google.Apis.xml
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Google.Apis.dll.mdb
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Google.Apis.Core.xml
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Google.Apis.Core.dll.mdb
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Newtonsoft.Json.xml
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Plugin.CurrentActivity.xml
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Plugin.Geolocator.xml
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Plugin.Geolocator.dll.mdb
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Plugin.Geolocator.Abstractions.xml
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Plugin.Geolocator.Abstractions.dll.mdb
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Plugin.Permissions.xml
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Plugin.Permissions.dll.mdb
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Plugin.Permissions.Abstractions.xml
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\obj\Debug\FinalYearProject.Mobile.dll
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\obj\Debug\FinalYearProject.Mobile.pdb
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\bin\FinalYearProject.Mobile.apk
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\obj\Debug\res\layout\productlistings.xml
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\obj\Debug\res\menu\actionbarmenu.xml
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\obj\Debug\res\layout\dialogpermission.xml
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\obj\Debug\res\layout\main.xml
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\obj\Debug\res\layout\home.xml
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\obj\Debug\res\values\strings.xml
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\obj\Debug\res\drawable\icon.png
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\obj\Debug\res\values\styles.xml
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\obj\Debug\R.cs.flag
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\obj\Debug\uploadflags.txt
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\obj\Debug\FinalYearProject.Mobile.csprojResolveAssemblyReference.cache
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\FinalYearProject.Mobile.dll.mdb
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Java.Interop.dll.mdb
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Mono.Android.dll.mdb
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\mscorlib.dll.mdb
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\System.Core.dll.mdb
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\System.dll.mdb
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\System.IO.Compression.dll.mdb
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\System.Xml.dll.mdb
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\FinalYearProject.Mobile.dll.mdb
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\Google.Apis.Core.dll.mdb
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\Google.Apis.dll.mdb
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\Plugin.Geolocator.Abstractions.dll.mdb
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\Plugin.Geolocator.dll.mdb
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\System.dll.mdb
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\System.IO.Compression.dll.mdb
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\thomasol\Documents\Visual Studio 2015\Projects\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\FinalYearProject.Mobile.dll
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\FinalYearProject.Mobile.pdb
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\FinalYearProject.Mobile.apk
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\FinalYearProject.Mobile-Signed.apk
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\FormsViewGroup.dll
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Google.Apis.Core.dll
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Google.Apis.dll
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Newtonsoft.Json.dll
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Plugin.CurrentActivity.dll
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Plugin.Geolocator.Abstractions.dll
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Plugin.Geolocator.dll
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Plugin.Permissions.Abstractions.dll
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Plugin.Permissions.dll
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Xamarin.Forms.Core.dll
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Xamarin.Forms.Platform.dll
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Xamarin.GooglePlayServices.Location.dll
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Xamarin.GooglePlayServices.Plus.dll
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\ZXing.Net.Mobile.Core.dll
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\ZXing.Net.Mobile.Forms.Android.dll
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\ZXing.Net.Mobile.Forms.dll
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\zxing.portable.dll
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\ZXingNetMobile.dll
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\FormsViewGroup.dll.mdb
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Google.Apis.xml
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Google.Apis.dll.mdb
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Google.Apis.Core.xml
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Google.Apis.Core.dll.mdb
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Newtonsoft.Json.xml
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Plugin.CurrentActivity.xml
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Plugin.Geolocator.xml
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Plugin.Geolocator.dll.mdb
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Plugin.Geolocator.Abstractions.xml
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Plugin.Geolocator.Abstractions.dll.mdb
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Plugin.Permissions.xml
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Plugin.Permissions.dll.mdb
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Plugin.Permissions.Abstractions.xml
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Plugin.Permissions.Abstractions.dll.mdb
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Xamarin.Forms.Core.xml
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\FinalYearProject\FinalYearProject.Mobile\obj\Debug\FinalYearProject.Mobile.dll
+C:\FinalYearProject\FinalYearProject.Mobile\obj\Debug\FinalYearProject.Mobile.pdb
+C:\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\bin\FinalYearProject.Mobile.apk
+C:\FinalYearProject\FinalYearProject.Mobile\obj\Debug\res\layout\productlistings.xml
+C:\FinalYearProject\FinalYearProject.Mobile\obj\Debug\res\menu\actionbarmenu.xml
+C:\FinalYearProject\FinalYearProject.Mobile\obj\Debug\res\layout\dialogpermission.xml
+C:\FinalYearProject\FinalYearProject.Mobile\obj\Debug\res\layout\main.xml
+C:\FinalYearProject\FinalYearProject.Mobile\obj\Debug\res\layout\home.xml
+C:\FinalYearProject\FinalYearProject.Mobile\obj\Debug\res\values\strings.xml
+C:\FinalYearProject\FinalYearProject.Mobile\obj\Debug\res\drawable\icon.png
+C:\FinalYearProject\FinalYearProject.Mobile\obj\Debug\res\values\styles.xml
+C:\FinalYearProject\FinalYearProject.Mobile\obj\Debug\R.cs.flag
+C:\FinalYearProject\FinalYearProject.Mobile\obj\Debug\uploadflags.txt
+C:\FinalYearProject\FinalYearProject.Mobile\obj\Debug\FinalYearProject.Mobile.csprojResolveAssemblyReference.cache
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\FinalYearProject.Mobile.dll.mdb
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Java.Interop.dll.mdb
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Mono.Android.dll.mdb
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\Mono.CSharp.dll.mdb
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\mscorlib.dll.mdb
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\System.Core.dll.mdb
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\System.dll.mdb
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\System.IO.Compression.dll.mdb
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\System.Net.Http.dll.mdb
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\System.Xml.dll.mdb
+C:\FinalYearProject\FinalYearProject.Mobile\bin\Debug\System.Xml.Linq.dll.mdb
+C:\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\FinalYearProject.Mobile.dll.mdb
+C:\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\Google.Apis.Core.dll.mdb
+C:\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\Google.Apis.dll.mdb
+C:\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\Plugin.Geolocator.Abstractions.dll.mdb
+C:\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\Plugin.Geolocator.dll.mdb
+C:\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\Plugin.Permissions.Abstractions.dll.mdb
+C:\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+C:\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\System.Core.dll.mdb
+C:\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\System.dll.mdb
+C:\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\System.IO.Compression.dll.mdb
+C:\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\FinalYearProject\FinalYearProject.Mobile\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
